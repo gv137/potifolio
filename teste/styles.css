@@ -48,7 +48,7 @@ footer {
     padding: 20px;
     border-radius: 10px;
     width: 300px;
-    text-align: left;
+    text-align: center;
     transition: transform 0.3s ease, box-shadow 0.3s ease;
 }
 
